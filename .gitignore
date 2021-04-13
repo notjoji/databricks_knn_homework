@@ -1,2 +1,5 @@
 # IntelliJ Idea
 .idea
+
+# IPython Notebook
+.ipynb_checkpoints
